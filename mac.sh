@@ -10,6 +10,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/in
 bash -c "$(curl -sL https://raw.githubusercontent.com/rwu823/init/HEAD/mac-brew-install.sh)"
 
 
+
 # curl install apps
 FILE=xgestures180.dmg
 curl -LO http://briankendall.net/xGestures/download_files/$FILE
@@ -18,6 +19,16 @@ hdiutil attach ./$FILE
 mv "/Volumes/xGestures 1/xGestures.prefPane" ~/Library/PreferencePanes/
 hdiutil eject "/Volumes/xGestures 1"
 
+rm -rf ./$FILE
+
+
+FILE=aliwangwang.dmg
+curl -L 'https://alimarket.taobao.com/markets/qnww/aliww-download?spm=a21e4.8043303.0.0.56f53519tGg5Tb&wh_from=macos' -o $FILE
+yes | hdiutil attach ./$FILE
+
+mv /Volumes/Aliwangwang/Aliwangwang.app /Applications
+
+hdiutil eject /Volumes/AliWangwang
 rm -rf ./$FILE
 
 # Install agtign.zsh_____________________________
