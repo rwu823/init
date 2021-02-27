@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+curl -Ls https://raw.githubusercontent.com/elasticdog/transcrypt/HEAD/transcrypt | bash -s -- "$@"
