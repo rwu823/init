@@ -40,5 +40,3 @@ vim +PluginInstall +qall
 
 # fix zsh compaudit
 compaudit | xargs chmod g-w
-
-git clone git@github.com:rwu823/init.git $HOME/init
