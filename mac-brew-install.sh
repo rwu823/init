@@ -35,11 +35,11 @@ brew install iterm2
 brew install visual-studio-code
 brew install font-fira-code
 brew install font-victor-mono
-brew install font-cascadia-code
-brew install docker
+brew install font-sf-mono-for-powerline
+brew install homebrew/cask/docker
 brew install google-cloud-sdk
 brew install skype
 brew install messenger
-brew install aliwangwang
 brew install eudic
 brew install alt-c
+brew install postman
