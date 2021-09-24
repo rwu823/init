@@ -18,6 +18,7 @@ brew install ripgrep
 brew install fd
 brew install exa
 brew install fnm
+brew install ttdy
 brew install google-cloud-sdk
 
 # apps
@@ -38,7 +39,6 @@ brew install skype
 brew install messenger
 brew install eudic
 brew install alt-c
-brew install postman
 
 # font
 brew install font-fira-code
