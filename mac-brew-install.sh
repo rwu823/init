@@ -19,6 +19,7 @@ brew install fd
 brew install exa
 brew install fnm
 brew install ttdy
+brew install code-server
 brew install google-cloud-sdk
 
 # apps
