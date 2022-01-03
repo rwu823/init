@@ -23,14 +23,13 @@ brew install google-cloud-sdk
 
 # apps
 brew install dropbox
-brew install --cask microsoft-edge
+brew install microsoft-edge
 brew install karabiner-elements
 brew install omnidisksweeper
 brew install keka
 brew install snipaste
 brew install bettertouchtool
 brew install spectacle
-brew install numi
 brew install keyboard-cleaner
 brew install iterm2
 brew install visual-studio-code
