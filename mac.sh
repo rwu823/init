@@ -6,9 +6,6 @@ sudo chown -R $(whoami) /usr/local/*
 
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-# brew install
-bash -c "$(curl -sL https://raw.githubusercontent.com/rwu823/init/HEAD/mac-brew-install.sh)"
-
 
 # curl install AliWangWang
 FILE=aliwangwang.dmg
