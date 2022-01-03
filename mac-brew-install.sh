@@ -3,8 +3,8 @@
 brew update
 
 brew tap homebrew/cask-fonts
-brew tap homebrew/cask-versions
-brew tap beeftornado/rmtree
+# brew tap homebrew/cask-versions
+# brew tap beeftornado/rmtree
 
 # cli
 brew install tmux reattach-to-user-namespace
