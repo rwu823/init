@@ -10,6 +10,7 @@ brew tap homebrew/cask-fonts
 brew install tmux reattach-to-user-namespace
 brew install git-lfs
 brew install ssh-copy-id
+brew install node
 brew install yarn
 brew install tig
 brew install fzf
