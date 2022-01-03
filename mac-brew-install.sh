@@ -10,7 +10,6 @@ brew tap beeftornado/rmtree
 brew install tmux reattach-to-user-namespace
 brew install git-lfs
 brew install ssh-copy-id
-brew install zsh
 brew install yarn
 brew install tig
 brew install fzf
