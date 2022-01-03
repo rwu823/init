@@ -24,7 +24,7 @@ brew install google-cloud-sdk
 
 # apps
 brew install dropbox
-brew install google-chrome
+brew install --cask microsoft-edge
 brew install karabiner-elements
 brew install omnidisksweeper
 brew install keka
