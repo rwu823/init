@@ -23,7 +23,6 @@ brew install code-server
 brew install google-cloud-sdk
 
 # apps
-brew install dropbox
 brew install microsoft-edge
 brew install karabiner-elements
 brew install omnidisksweeper
@@ -34,11 +33,14 @@ brew install spectacle
 brew install keyboard-cleaner
 brew install iterm2
 brew install visual-studio-code
-brew install homebrew/cask/docker
+brew install docker
 brew install skype
 brew install messenger
 brew install eudic
 brew install alt-c
+brew install discord
+brew install meetingbar
+brew install telegram
 
 # font
 brew install font-fira-code
