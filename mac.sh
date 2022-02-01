@@ -27,7 +27,7 @@ curl -L git.io/antigen > ~/.antigen.zsh
 chmod 0600 ~/.ssh/*
 
 # Install node package cli
-yarn global add gh wifi-password-cli tldr gtop speed-test serve
+yarn global add wifi-password-cli tldr gtop serve react-devtools
 
 # Install Vundle
 git clone --depth 1 https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim

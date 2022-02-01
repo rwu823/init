@@ -14,6 +14,7 @@ brew install node
 brew install yarn
 brew install tig
 brew install fzf
+bash $(brew --prefix)/opt/fzf/install
 brew install ripgrep
 brew install fd
 brew install exa
@@ -24,12 +25,12 @@ brew install google-cloud-sdk
 
 # apps
 brew install microsoft-edge
+brew install raycast
 brew install karabiner-elements
 brew install omnidisksweeper
 brew install keka
 brew install snipaste
 brew install bettertouchtool
-brew install spectacle
 brew install keyboard-cleaner
 brew install iterm2
 brew install visual-studio-code
@@ -41,6 +42,7 @@ brew install alt-c
 brew install discord
 brew install meetingbar
 brew install telegram
+brew install iina
 
 # font
 brew install font-fira-code
