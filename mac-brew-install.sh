@@ -19,30 +19,29 @@ brew install ripgrep
 brew install fd
 brew install exa
 brew install fnm
-brew install ttyd
 brew install code-server
-brew install google-cloud-sdk
+# brew install google-cloud-sdk
 
-# apps
-brew install microsoft-edge
-brew install raycast
-brew install karabiner-elements
-brew install omnidisksweeper
-brew install keka
-brew install snipaste
-brew install bettertouchtool
-brew install keyboard-cleaner
-brew install iterm2
-brew install visual-studio-code
-brew install docker
-brew install skype
-brew install messenger
-brew install eudic
-brew install alt-c
-brew install discord
-brew install meetingbar
-brew install telegram
-brew install iina
+# cask
+brew install --cask microsoft-edge
+brew install --cask raycast
+brew install --cask karabiner-elements
+brew install --cask omnidisksweeper
+brew install --cask keka
+brew install --cask snipaste
+brew install --cask bettertouchtool
+brew install --cask keyboard-cleaner
+brew install --cask iterm2
+brew install --cask visual-studio-code
+# brew install --cask docker
+brew install --cask skype
+brew install --cask messenger
+brew install --cask eudic
+brew install --cask alt-c
+brew install --cask discord
+brew install --cask meetingbar
+brew install --cask telegram
+brew install --cask iina
 
 # font
 brew install font-fira-code
