@@ -20,7 +20,8 @@ brew install fd
 brew install exa
 brew install fnm
 brew install code-server
-# brew install google-cloud-sdk
+brew install gh
+brew install google-cloud-sdk
 
 # cask
 brew install --cask microsoft-edge
@@ -31,7 +32,8 @@ brew install --cask keka
 brew install --cask snipaste
 brew install --cask bettertouchtool
 brew install --cask keyboard-cleaner
-brew install --cask iterm2
+# brew install --cask iterm2
+brew install --cask warp
 brew install --cask visual-studio-code
 # brew install --cask docker
 brew install --cask skype
@@ -51,3 +53,12 @@ brew install font-sf-mono-for-powerline
 # android
 brew install android-platform-tools
 brew install android-file-transfer
+
+
+# yarn
+yarn global add github:rwu823/ts-mono\#pkg/{ts-base,dev-react}
+yarn global add npm-check-update
+yarn global add pm2
+
+# pnpm
+curl -fsSL https://get.pnpm.io/install.sh | PNPM_VERSION=7.0.0-rc.3 sh -
