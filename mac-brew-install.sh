@@ -18,8 +18,8 @@ bash $(brew --prefix)/opt/fzf/install
 brew install ripgrep
 brew install fd
 brew install exa
-# brew install fnm
-brew install code-server
+brew install fnm
+# brew install code-server
 brew install gh
 brew install google-cloud-sdk
 
@@ -40,12 +40,13 @@ brew install --cask visual-studio-code
 brew install --cask skype
 brew install --cask messenger
 brew install --cask eudic
-brew install --cask alt-c
+# brew install --cask alt-c
 brew install --cask discord
 # brew install --cask meetingbar
 brew install --cask telegram
 # brew install --cask iina
 brew install --cask send-anywhere
+brew install --cask aliwangwang
 
 # font
 brew install font-fira-code

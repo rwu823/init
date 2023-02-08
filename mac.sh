@@ -8,17 +8,6 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/in
 
 brew install dropbox
 
-
-# curl install AliWangWang
-FILE=aliwangwang.dmg
-curl -L 'https://alimarket.taobao.com/markets/qnww/aliww-download?spm=a21e4.8043303.0.0.56f53519tGg5Tb&wh_from=macos' -o $FILE
-yes | hdiutil attach ./$FILE
-
-mv /Volumes/Aliwangwang/Aliwangwang.app /Applications
-
-hdiutil eject /Volumes/AliWangwang
-rm -rf ./$FILE
-
 # Install agtign.zsh_____________________________
 curl -L git.io/antigen > ~/.antigen.zsh
 
