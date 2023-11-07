@@ -36,8 +36,8 @@ brew install --cask visual-studio-code
 brew install --cask eudic
 # brew install --cask alt-c
 brew install --cask discord
-# brew install --cask iina
-brew install --cask send-anywhere
+brew install --cask iina
+brew install --cask soduto
 brew install --cask aliwangwang
 
 # font
