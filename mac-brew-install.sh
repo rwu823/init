@@ -17,7 +17,7 @@ brew install fzf
 bash $(brew --prefix)/opt/fzf/install
 brew install ripgrep
 brew install fd
-brew install exa
+brew install eza
 # brew install fnm
 # brew install code-server
 brew install gh
